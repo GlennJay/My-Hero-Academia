@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: Arial, "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 15px;
+	line-height: 1.5;
+	padding: 0;
+	margin: 0;
+}
+
+.image-container{
+	display: flex;
+}
+.image-container div{
+	border: 1px #ccc solid;
+	padding: 10px;
+}
+
+.student{
+	flex: 1;
+}
+
+.hero{
+		flex: 1;
+
+}
+
+.villian{
+		flex: 1;
+
+}
